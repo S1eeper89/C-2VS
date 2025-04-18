@@ -35,6 +35,14 @@ namespace Lekce2_BR_2
                             Console.WriteLine("Exiting the game. Farewell!");
                             return;
 
+                        case "idkfa":
+                            luci.AddArrows(666);
+                            break;
+
+                        case "iddqd":
+                            Console.WriteLine("Nice try buddy, you do not have lives, your cheats wont help you.");
+                            break;
+
                         default:
                             Console.WriteLine("Invalid choice. Please enter 1, 2 or 3");
                             break;
