@@ -1,4 +1,4 @@
-﻿namespace Lekce2_BR_2
+﻿namespace Kurz_C_2_UKOL_1
 {
 
     internal class Program
